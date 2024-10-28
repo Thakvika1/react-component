@@ -7,7 +7,7 @@ function Sidebar() {
     { label: "button", path: "/button" },
     { label: "modal", path: "/modal" },
     { label: "Table", path: "/table" },
-    { label: "Counter", path: "/counter"},
+    { label: "Counter", path: "/counter" },
   ];
   // label is text to show and path is to
 
